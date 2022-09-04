@@ -1,0 +1,14 @@
+Number of epochs for pre-training = 500
+Number of epochs for training = 500
+Accuracy = 0.6237
+ARI = 0.38473491327746967
+NMI = 0.5307912322665788
+Time taken to execute = 5304.015214204788 s
+
+Number of epochs for pre-training = 500
+Number of epochs for training = 500
+Accuracy = 0.6068
+ARI = 0.39368593227458715
+NMI = 0.5288261093582431
+Time taken to execute = 6566.972745418549 s
+

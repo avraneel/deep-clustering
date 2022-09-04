@@ -1,0 +1,63 @@
+Number of epochs for pre-training = 1000
+Number of epochs for training = 10000
+Accuracy = 0.7890929326655537
+ARI = 0.18917253458958092
+NMI = 0.43337624521306534
+Time taken to execute = 226.4380021095276 s
+
+Number of epochs for pre-training = 1000
+Number of epochs for training = 10000
+Accuracy = 0.6816917084028937
+ARI = 0.3712738523178869
+NMI = 0.5528237565869768
+Time taken to execute = 336.56178617477417 s
+
+Number of epochs for pre-training = 1
+Number of epochs for training = 1
+Accuracy = 0.3199777406789093
+ARI = 0.059440670220625665
+NMI = 0.12065179489499872
+Time taken to execute = 0.3933243751525879 s
+
+Number of epochs for pre-training = 500
+Number of epochs for training = 500
+Accuracy = 0.8319421257651641
+ARI = 0.07269663499434738
+NMI = 0.28647040783572014
+Time taken to execute = 46.85787796974182 s
+
+Number of epochs for pre-training = 1000
+Number of epochs for training = 10000
+Accuracy = 0.7017250973845298
+ARI = 0.39757874525743603
+NMI = 0.584297179693062
+Time taken to execute = 527.7726624011993 s
+
+Number of epochs for pre-training = 500
+Number of epochs for training = 500
+Accuracy = 0.9348914858096828
+ARI = 0.09360614028711464
+NMI = 0.30323151141516
+Time taken to execute = 47.55826663970947 s
+
+Number of epochs for pre-training = 1000
+Number of epochs for training = 10000
+Accuracy = 0.6477462437395659
+ARI = 0.2640919324210031
+NMI = 0.4827699518634625
+Time taken to execute = 1014.7351653575897 s
+
+Number of epochs for pre-training = 1000
+Number of epochs for training = 10000
+Accuracy = 0.7913188647746243
+ARI = 0.11520307644090741
+NMI = 0.3827977704883147
+Time taken to execute = 559.8024759292603 s
+
+Number of epochs for pre-training = 1000
+Number of epochs for training = 1000
+Accuracy = 0.7557039510294936
+ARI = 0.49671019354554863
+NMI = 0.6357273213879847
+Time taken to execute = 43.49971151351929 s
+

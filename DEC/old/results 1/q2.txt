@@ -1,0 +1,28 @@
+Accuracy = 10.768333333333334
+ARI = 0.15873246526253582
+ARI = 0.3069764100505802
+
+Number of epochs for training = 100
+Accuracy = 7.95
+ARI = 0.3110669498906815
+ARI = 0.47847808221838584
+
+Number of epochs for training = 1
+Accuracy = 7.793333333333333
+ARI = 0.036384044083719584
+ARI = 0.09413247076128993
+
+Number of epochs for pre-training = 1
+Number of epochs for training = 1
+Accuracy = 9.915000000000001
+ARI = 0.04269374298800744
+NMI = 0.11325332476348733
+Time taken to execute = 13.534336566925049 s
+
+Number of epochs for pre-training = 500
+Number of epochs for training = 500
+Accuracy = 0.7526
+ARI = 0.6259834183093903
+NMI = 0.6978202414067944
+Time taken to execute = 5515.526433467865 s
+
